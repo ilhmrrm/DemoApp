@@ -1,0 +1,3 @@
+username_input: //android.widget.EditText[@content-desc="Username input field"]
+password_input: //android.widget.EditText[@content-desc="Password input field"]
+login_input: //android.view.ViewGroup[@content-desc="Login button"]

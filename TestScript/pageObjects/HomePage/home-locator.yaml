@@ -1,0 +1,2 @@
+login_btn: //android.view.ViewGroup[@content-desc="menu item log in"]
+burger_menu_btn: //android.view.ViewGroup[@content-desc="open menu"]/android.widget.ImageView
