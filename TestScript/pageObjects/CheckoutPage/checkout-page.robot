@@ -9,10 +9,12 @@ Click One Item On Dashboard
     Wait Until Element Is Visible    xpath=${item_one}
     Click Element    xpath=${item_one}
 
-Click Add To Cart Button and Back To Catalog
+Click Add To Cart Button Items One
     Swipe    500    1500    500    500
     Wait Until Element Is Visible    ${Add_to_cart}
     Click Element    locator=${Add_to_cart}
+
+Click Back to Catalog 
     Click Element    locator=${burger_menu}
     Wait Until Element Is Visible    locator=${back_catalog}
     Click Element    locator=${back_catalog}

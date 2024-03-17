@@ -22,7 +22,8 @@ Test Setup
 Perform Checkout
     [Documentation]
     Click One Item On Dashboard
-    Click Add To Cart Button and Back To Catalog
+    Click Add To Cart Button Items One
+    Click Back to Catalog
     Click Another Item On Dashboard
     Click Add To Cart Button 
     Click Cart Button
