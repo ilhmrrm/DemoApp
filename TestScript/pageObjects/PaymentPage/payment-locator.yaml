@@ -1,0 +1,6 @@
+Fullname_Payment: //android.widget.EditText[@content-desc="Full Name* input field"]
+CardNumber: //android.widget.EditText[@content-desc="Card Number* input field"]
+ExpiryDate: //android.widget.EditText[@content-desc="Expiration Date* input field"]
+SecurityCode: //android.widget.EditText[@content-desc="Security Code* input field"]
+ReviewOrder: //android.view.ViewGroup[@content-desc="Review Order button"]
+PlaceOrder: //android.view.ViewGroup[@content-desc="Place Order button"]
