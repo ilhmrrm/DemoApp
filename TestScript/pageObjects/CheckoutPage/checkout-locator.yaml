@@ -1,0 +1,7 @@
+item_one: (//android.view.ViewGroup[@content-desc="store item"])[1]
+item_two: (//android.view.ViewGroup[@content-desc="store item"])[4]
+Add_to_cart: //android.view.ViewGroup[@content-desc="Add To Cart button"]
+burger_menu: //android.view.ViewGroup[@content-desc="open menu"]/android.widget.ImageView
+back_catalog: //android.view.ViewGroup[@content-desc="menu item catalog"]
+cart_button: //android.view.ViewGroup[@content-desc="cart badge"]
+checkout_button: //android.view.ViewGroup[@content-desc="Proceed To Checkout button"]
