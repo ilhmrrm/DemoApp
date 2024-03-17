@@ -1,0 +1,6 @@
+Fullname: //android.widget.EditText[@content-desc="Full Name* input field"]
+Address: //android.widget.EditText[@content-desc="Address Line 1* input field"]
+City: //android.widget.EditText[@content-desc="City* input field"]
+Zipcode: //android.widget.EditText[@content-desc="Zip Code* input field"]
+Country: //android.widget.EditText[@content-desc="Country* input field"]
+Payment_button: //android.view.ViewGroup[@content-desc="To Payment button"]

@@ -2,8 +2,6 @@
 Resource                ../base/base.robot
 Variables               checkout-locator.yaml
 
-*** Variables ***
-
 *** Keywords ***
 Click One Item On Dashboard
     Wait Until Element Is Visible    xpath=${item_one}
